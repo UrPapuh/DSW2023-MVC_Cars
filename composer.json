@@ -1,0 +1,17 @@
+{
+    "name": "urpapuh/cars",
+    "description": "Practica Modelo Vista Controlador (MVC)",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "UrPapuh\\Cars\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "UrPapuh",
+            "email": "andrewgr073@gmail.com"
+        }
+    ],
+    "require": {}
+}
