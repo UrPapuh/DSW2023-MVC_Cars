@@ -1,100 +1,702 @@
-[{"id":"2LMDJ8JK9FB165050","make":"Mitsubishi","model":"Endeavor","year":2009,"color":"Mauv"},
-{"id":"KMHTC6AD6FU701891","make":"Land Rover","model":"Defender 90","year":1995,"color":"Blue"},
-{"id":"5N1AN0NU9DN967793","make":"Lincoln","model":"Town Car","year":1992,"color":"Red"},
-{"id":"SCFFDEDN5CG459023","make":"Chevrolet","model":"G-Series G20","year":1994,"color":"Pink"},
-{"id":"2GKALMEK8F6561287","make":"Mitsubishi","model":"Outlander","year":2011,"color":"Green"},
-{"id":"1C3CDZBG1CN744301","make":"Ferrari","model":"612 Scaglietti","year":2008,"color":"Violet"},
-{"id":"4JGDF2EEXDA541827","make":"Buick","model":"Park Avenue","year":1996,"color":"Maroon"},
-{"id":"5TFAW5F18EX876099","make":"Hyundai","model":"Tiburon","year":1999,"color":"Turquoise"},
-{"id":"3C4PDDEG0CT160029","make":"Chevrolet","model":"Avalanche 1500","year":2005,"color":"Red"},
-{"id":"1GYS4DEF0BR439113","make":"BMW","model":"Z8","year":2002,"color":"Pink"},
-{"id":"JH4NA21634T038018","make":"Dodge","model":"Ram Van B150","year":1992,"color":"Blue"},
-{"id":"5GAKRCED7CJ438249","make":"Audi","model":"V8","year":1994,"color":"Goldenrod"},
-{"id":"JTDZN3EU3E3868439","make":"Scion","model":"FR-S","year":2013,"color":"Violet"},
-{"id":"JM1NC2NF0E0278622","make":"Honda","model":"Civic","year":2005,"color":"Indigo"},
-{"id":"WBAEP33435P566005","make":"GMC","model":"Suburban 1500","year":1995,"color":"Green"},
-{"id":"1GKS1CE07ER690126","make":"Hyundai","model":"XG350","year":2005,"color":"Mauv"},
-{"id":"WAUGL98E47A939177","make":"Toyota","model":"Avalon","year":2007,"color":"Violet"},
-{"id":"3N1AB6APXBL200549","make":"Chevrolet","model":"Uplander","year":2005,"color":"Red"},
-{"id":"5LMJJ3H54CE812534","make":"Mercury","model":"Sable","year":1991,"color":"Aquamarine"},
-{"id":"5GAKRCKD9FJ285611","make":"Jaguar","model":"S-Type","year":2002,"color":"Yellow"},
-{"id":"WAUHFAFL0DN398633","make":"Volkswagen","model":"GLI","year":2008,"color":"Purple"},
-{"id":"3VWJP7AT8CM032386","make":"GMC","model":"Sonoma","year":1997,"color":"Blue"},
-{"id":"4USFE83587L237971","make":"Subaru","model":"B9 Tribeca","year":2006,"color":"Crimson"},
-{"id":"1C3CDFCB7FD067234","make":"Volvo","model":"V70","year":1998,"color":"Khaki"},
-{"id":"WBAPK7C53BA103268","make":"Cadillac","model":"Escalade","year":2011,"color":"Mauv"},
-{"id":"2C3CDXBG9EH000378","make":"Mercedes-Benz","model":"SLR McLaren","year":2008,"color":"Puce"},
-{"id":"TRURD38J981760935","make":"Ford","model":"Festiva","year":1993,"color":"Puce"},
-{"id":"WAUVT68E44A023777","make":"GMC","model":"2500","year":1996,"color":"Aquamarine"},
-{"id":"JTDKN3DUXF0179827","make":"Volvo","model":"S80","year":2008,"color":"Green"},
-{"id":"WAUFMBFC6EN514700","make":"Mercedes-Benz","model":"E-Class","year":1995,"color":"Green"},
-{"id":"5BZBF0AA5EN427599","make":"Subaru","model":"XT","year":1991,"color":"Teal"},
-{"id":"5N1AN0NU7AC821979","make":"Plymouth","model":"Grand Voyager","year":1999,"color":"Fuscia"},
-{"id":"WBA3N3C58EK526912","make":"Toyota","model":"Tercel","year":1993,"color":"Green"},
-{"id":"KMHEC4A49FA795134","make":"Cadillac","model":"SRX","year":2012,"color":"Goldenrod"},
-{"id":"3N1CN7AP3FL730048","make":"Ford","model":"Fusion","year":2012,"color":"Fuscia"},
-{"id":"WUAW2BFC7EN708101","make":"BMW","model":"6 Series","year":2006,"color":"Teal"},
-{"id":"WAURGAFD4DN118089","make":"Lexus","model":"GX","year":2012,"color":"Crimson"},
-{"id":"1VWAH7A35DC117217","make":"Ford","model":"Flex","year":2012,"color":"Blue"},
-{"id":"WBANW53599C189281","make":"Hyundai","model":"Accent","year":1996,"color":"Teal"},
-{"id":"WA1CGBFE2ED891149","make":"Chrysler","model":"Imperial","year":1992,"color":"Crimson"},
-{"id":"WBAPM5C55BE381063","make":"Porsche","model":"968","year":1993,"color":"Mauv"},
-{"id":"1GT020CG5EF409599","make":"GMC","model":"2500 Club Coupe","year":1997,"color":"Fuscia"},
-{"id":"JN1BY0AP1AM408310","make":"Ford","model":"F250","year":1995,"color":"Turquoise"},
-{"id":"1B3BD2FB9BN692090","make":"Audi","model":"Allroad","year":2005,"color":"Maroon"},
-{"id":"1G6AH5RX6D0909038","make":"Mazda","model":"RX-7","year":1994,"color":"Blue"},
-{"id":"WAUJ2AFD2FN955048","make":"GMC","model":"Yukon XL 1500","year":2012,"color":"Fuscia"},
-{"id":"WA1CFAFP1DA506193","make":"Saab","model":"9000","year":1990,"color":"Blue"},
-{"id":"1G4HD57246U425598","make":"Ford","model":"Mustang","year":1985,"color":"Fuscia"},
-{"id":"5N1BA0NC6FN269779","make":"Lotus","model":"Esprit","year":1991,"color":"Fuscia"},
-{"id":"WAUEF98E97A023335","make":"Kia","model":"Sephia","year":1997,"color":"Goldenrod"},
-{"id":"WVGBF7A90AD553850","make":"Buick","model":"Roadmaster","year":1995,"color":"Mauv"},
-{"id":"3TMJU4GN9AM836731","make":"Porsche","model":"911","year":1990,"color":"Indigo"},
-{"id":"1HGCR2E56EA705066","make":"Porsche","model":"911","year":1985,"color":"Indigo"},
-{"id":"WAUKF78E27A259316","make":"GMC","model":"Envoy","year":2002,"color":"Indigo"},
-{"id":"WAUJC58E12A849461","make":"Nissan","model":"JUKE","year":2012,"color":"Indigo"},
-{"id":"WAUNF78P88A116466","make":"Volkswagen","model":"Cabriolet","year":1997,"color":"Teal"},
-{"id":"1G4HR54K744086032","make":"Mercury","model":"Sable","year":1998,"color":"Maroon"},
-{"id":"YV126MFK3F1064182","make":"Audi","model":"Q7","year":2010,"color":"Aquamarine"},
-{"id":"5N1AA0NC9DN734533","make":"Oldsmobile","model":"Bravada","year":2003,"color":"Mauv"},
-{"id":"WA1LGAFE6DD112831","make":"Nissan","model":"280ZX","year":1979,"color":"Maroon"},
-{"id":"WVGFG9BP2CD300071","make":"Acura","model":"ZDX","year":2011,"color":"Red"},
-{"id":"1G6KF57993U725458","make":"Pontiac","model":"Vibe","year":2009,"color":"Mauv"},
-{"id":"WBANA53535B326469","make":"Mitsubishi","model":"Excel","year":1989,"color":"Crimson"},
-{"id":"2G4WC582961064812","make":"Buick","model":"Skylark","year":1989,"color":"Turquoise"},
-{"id":"2C3CCACG8CH334588","make":"Mitsubishi","model":"Chariot","year":1986,"color":"Khaki"},
-{"id":"2HNYD28578H416258","make":"Infiniti","model":"Q","year":2005,"color":"Violet"},
-{"id":"1GKKRNED0CJ436180","make":"Pontiac","model":"Firebird","year":1999,"color":"Red"},
-{"id":"1FTSW3B54AE194664","make":"GMC","model":"Savana 2500","year":2005,"color":"Goldenrod"},
-{"id":"JTEBU5JRXF5599469","make":"Honda","model":"Ridgeline","year":2012,"color":"Goldenrod"},
-{"id":"1G6DV1EP6C0275703","make":"Buick","model":"Park Avenue","year":1991,"color":"Green"},
-{"id":"JHMGE8G26AS166517","make":"Ford","model":"Econoline E250","year":1999,"color":"Puce"},
-{"id":"JN1CV6EK7EM471562","make":"Acura","model":"RL","year":1998,"color":"Maroon"},
-{"id":"WAUMFAFL8AA887248","make":"Chevrolet","model":"Sonic","year":2012,"color":"Maroon"},
-{"id":"1G4HR54K644490746","make":"Ford","model":"Windstar","year":1996,"color":"Goldenrod"},
-{"id":"WBAWC33508P397445","make":"Isuzu","model":"Trooper","year":1993,"color":"Khaki"},
-{"id":"JN8AZ2KR9AT532188","make":"Ford","model":"E-Series","year":2005,"color":"Green"},
-{"id":"1FTSX2A56AE752247","make":"Subaru","model":"SVX","year":1995,"color":"Red"},
-{"id":"W04G15GV9B1092954","make":"Mazda","model":"Tribute","year":2009,"color":"Turquoise"},
-{"id":"4T1BF1FK3CU064502","make":"Mercedes-Benz","model":"500SEL","year":1992,"color":"Pink"},
-{"id":"1GYS3BEF1DR443861","make":"Audi","model":"A4","year":1998,"color":"Orange"},
-{"id":"KMHHT6KD7AU250046","make":"Mercedes-Benz","model":"300SD","year":1992,"color":"Turquoise"},
-{"id":"1FTSW3A58AE769107","make":"Ford","model":"Explorer","year":2002,"color":"Khaki"},
-{"id":"WBSPM9C55AE878972","make":"Toyota","model":"Venza","year":2011,"color":"Indigo"},
-{"id":"WVWBB7AJ5DW186558","make":"Lotus","model":"Esprit","year":1987,"color":"Goldenrod"},
-{"id":"JH4KC1F30EC534661","make":"Cadillac","model":"DeVille","year":1995,"color":"Indigo"},
-{"id":"SCBDU3ZA8CC708473","make":"Mitsubishi","model":"Expo LRV","year":1996,"color":"Mauv"},
-{"id":"3LN6L2LU6ER547451","make":"Volvo","model":"960","year":1993,"color":"Maroon"},
-{"id":"1G6KF57971U644231","make":"Toyota","model":"MR2","year":2001,"color":"Khaki"},
-{"id":"KMHCT4AE6DU259883","make":"Lexus","model":"LS","year":1990,"color":"Orange"},
-{"id":"WA1DGBFE5DD319365","make":"Nissan","model":"Leaf","year":2012,"color":"Indigo"},
-{"id":"5FPYK1F40DB633853","make":"Lincoln","model":"Continental Mark VII","year":1986,"color":"Aquamarine"},
-{"id":"2HNYD18462H248797","make":"Hyundai","model":"Sonata","year":1998,"color":"Pink"},
-{"id":"WBANV135X8B742892","make":"Volkswagen","model":"Touareg","year":2007,"color":"Puce"},
-{"id":"KM8NU4CC0AU057960","make":"Isuzu","model":"i-350","year":2006,"color":"Orange"},
-{"id":"19UUA8F20DA240169","make":"Audi","model":"A6","year":2002,"color":"Crimson"},
-{"id":"WP1AA2AP1AL386335","make":"Ferrari","model":"F430","year":2009,"color":"Indigo"},
-{"id":"4T1BF1FK3DU343000","make":"Mazda","model":"Mazda6","year":2006,"color":"Green"},
-{"id":"JN1CV6EK6CM772899","make":"Dodge","model":"Ram Van B250","year":1994,"color":"Red"},
-{"id":"1FTSW3A51AE246768","make":"Scion","model":"xD","year":2008,"color":"Yellow"},
-{"id":"WBAVC73537A550890","make":"Jeep","model":"Patriot","year":2007,"color":"Maroon"}]
+[
+    {
+        "id": "3VWKP7AJ2EM575321",
+        "make": "Mercedes-Benz",
+        "model": "E-Class",
+        "year": 1988,
+        "color": "#264780"
+    },
+    {
+        "id": "3FA6P0PU1FR376851",
+        "make": "Isuzu",
+        "model": "Hombre",
+        "year": 1996,
+        "color": "#79ae92"
+    },
+    {
+        "id": "1FTWW3CY5AE354318",
+        "make": "Subaru",
+        "model": "Legacy",
+        "year": 1994,
+        "color": "#fbb6d4"
+    },
+    {
+        "id": "2C3CDZBG2FH014555",
+        "make": "Chevrolet",
+        "model": "Tahoe",
+        "year": 1999,
+        "color": "#2b5e17"
+    },
+    {
+        "id": "1D7RV1CP2AS945342",
+        "make": "MINI",
+        "model": "Clubman",
+        "year": 2009,
+        "color": "#bd9045"
+    },
+    {
+        "id": "19UUA56933A494033",
+        "make": "Nissan",
+        "model": "Maxima",
+        "year": 1997,
+        "color": "#1839d6"
+    },
+    {
+        "id": "WAULT58E55A046097",
+        "make": "Subaru",
+        "model": "XT",
+        "year": 1991,
+        "color": "#566937"
+    },
+    {
+        "id": "1N6AA0CH3DN505894",
+        "make": "GMC",
+        "model": "Savana 1500",
+        "year": 2004,
+        "color": "#dead62"
+    },
+    {
+        "id": "3D7JB1ET4BG861449",
+        "make": "Mercury",
+        "model": "Mountaineer",
+        "year": 2005,
+        "color": "#b8866b"
+    },
+    {
+        "id": "1C4PJLAB3FW569699",
+        "make": "BMW",
+        "model": "745",
+        "year": 2004,
+        "color": "#4c4af0"
+    },
+    {
+        "id": "SCBDC3ZA9DC023077",
+        "make": "Honda",
+        "model": "Accord",
+        "year": 1992,
+        "color": "#521b03"
+    },
+    {
+        "id": "1N6AA0EC3EN790082",
+        "make": "Chevrolet",
+        "model": "Suburban 1500",
+        "year": 1992,
+        "color": "#31414a"
+    },
+    {
+        "id": "5N1AR1NB8CC051044",
+        "make": "BMW",
+        "model": "X6",
+        "year": 2011,
+        "color": "#a16d64"
+    },
+    {
+        "id": "SCBBP93W09C969126",
+        "make": "Hillman",
+        "model": "Minx Magnificent",
+        "year": 1950,
+        "color": "#fc799a"
+    },
+    {
+        "id": "19VDE1F71EE597521",
+        "make": "Chevrolet",
+        "model": "S10",
+        "year": 1997,
+        "color": "#cc0c35"
+    },
+    {
+        "id": "1N6AA0CC7BN990686",
+        "make": "Ford",
+        "model": "Bronco II",
+        "year": 1990,
+        "color": "#784971"
+    },
+    {
+        "id": "KNAGM4AD0D5145623",
+        "make": "Mitsubishi",
+        "model": "Endeavor",
+        "year": 2009,
+        "color": "#309358"
+    },
+    {
+        "id": "5GAKRBED3CJ329037",
+        "make": "Mercedes-Benz",
+        "model": "CL-Class",
+        "year": 2000,
+        "color": "#670945"
+    },
+    {
+        "id": "WBA4C9C54FG719902",
+        "make": "Chevrolet",
+        "model": "Silverado 2500",
+        "year": 2003,
+        "color": "#a45ff9"
+    },
+    {
+        "id": "JTDKDTB34F1199529",
+        "make": "Pontiac",
+        "model": "Sunbird",
+        "year": 1990,
+        "color": "#7f1982"
+    },
+    {
+        "id": "2T1BURHE7EC084834",
+        "make": "Mitsubishi",
+        "model": "Challenger",
+        "year": 1999,
+        "color": "#0fa705"
+    },
+    {
+        "id": "WAUVC68E73A315387",
+        "make": "GMC",
+        "model": "Sierra 2500",
+        "year": 2012,
+        "color": "#26b9c8"
+    },
+    {
+        "id": "WAUVC58E42A071514",
+        "make": "GMC",
+        "model": "Jimmy",
+        "year": 1992,
+        "color": "#2557d1"
+    },
+    {
+        "id": "1N6AA0CJ0EN330881",
+        "make": "Isuzu",
+        "model": "Trooper",
+        "year": 1995,
+        "color": "#9e6d38"
+    },
+    {
+        "id": "4A37L3ET6AE608102",
+        "make": "Audi",
+        "model": "S4",
+        "year": 2001,
+        "color": "#12737e"
+    },
+    {
+        "id": "JN8AS5MT3DW249464",
+        "make": "Suzuki",
+        "model": "Aerio",
+        "year": 2004,
+        "color": "#8a082d"
+    },
+    {
+        "id": "WVGEP9BP1FD182661",
+        "make": "Volvo",
+        "model": "XC70",
+        "year": 2005,
+        "color": "#8330dd"
+    },
+    {
+        "id": "1FMJK1H59DE537987",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "year": 2003,
+        "color": "#3e6218"
+    },
+    {
+        "id": "SCBCU8ZA6AC841772",
+        "make": "Saab",
+        "model": "9-7X",
+        "year": 2009,
+        "color": "#fc556e"
+    },
+    {
+        "id": "5UXFE83577L584504",
+        "make": "Honda",
+        "model": "Prelude",
+        "year": 1986,
+        "color": "#ef1957"
+    },
+    {
+        "id": "WBA4B1C56FG152435",
+        "make": "Plymouth",
+        "model": "Voyager",
+        "year": 1992,
+        "color": "#1c45f5"
+    },
+    {
+        "id": "JTHSE5BC7F5114215",
+        "make": "Mitsubishi",
+        "model": "Mirage",
+        "year": 2000,
+        "color": "#2a4a91"
+    },
+    {
+        "id": "1N6AF0KY3EN201274",
+        "make": "GMC",
+        "model": "Sierra 2500",
+        "year": 2005,
+        "color": "#2c613a"
+    },
+    {
+        "id": "5FNYF3H28CB137332",
+        "make": "Toyota",
+        "model": "Tacoma",
+        "year": 2005,
+        "color": "#029e5a"
+    },
+    {
+        "id": "WBANV13509B129178",
+        "make": "Mazda",
+        "model": "Mazda5",
+        "year": 2012,
+        "color": "#77d19f"
+    },
+    {
+        "id": "WBAKX8C54CC944474",
+        "make": "Mazda",
+        "model": "MX-5",
+        "year": 2000,
+        "color": "#245cb6"
+    },
+    {
+        "id": "1G4CW54K214270549",
+        "make": "GMC",
+        "model": "Sierra 3500",
+        "year": 2001,
+        "color": "#e31d81"
+    },
+    {
+        "id": "WDDGF4HB4DR141364",
+        "make": "Bentley",
+        "model": "Continental",
+        "year": 2010,
+        "color": "#62e3df"
+    },
+    {
+        "id": "2C4RDGDG5FR463729",
+        "make": "Kia",
+        "model": "Sportage",
+        "year": 2008,
+        "color": "#ab7fd4"
+    },
+    {
+        "id": "WAUFFAFL0CA690618",
+        "make": "Honda",
+        "model": "Accord",
+        "year": 1992,
+        "color": "#297d8a"
+    },
+    {
+        "id": "WBAYF8C55FD543012",
+        "make": "Chevrolet",
+        "model": "Corvette",
+        "year": 1972,
+        "color": "#f3008e"
+    },
+    {
+        "id": "NM0AS8F75E1957028",
+        "make": "Mitsubishi",
+        "model": "Lancer",
+        "year": 2002,
+        "color": "#3aa832"
+    },
+    {
+        "id": "1C3BC4FB8BN821728",
+        "make": "Porsche",
+        "model": "Cayman",
+        "year": 2010,
+        "color": "#e638cd"
+    },
+    {
+        "id": "2C3CDYBT5EH940566",
+        "make": "Toyota",
+        "model": "T100",
+        "year": 1997,
+        "color": "#d119b3"
+    },
+    {
+        "id": "1FTMF1C86AK569123",
+        "make": "Mazda",
+        "model": "Mazda3",
+        "year": 2004,
+        "color": "#277462"
+    },
+    {
+        "id": "SCFFBCBDXAG985133",
+        "make": "Dodge",
+        "model": "Dakota",
+        "year": 2007,
+        "color": "#473c62"
+    },
+    {
+        "id": "WBAKF3C57BE701833",
+        "make": "Porsche",
+        "model": "Boxster",
+        "year": 2006,
+        "color": "#2426b8"
+    },
+    {
+        "id": "WBAAZ33424K539608",
+        "make": "Buick",
+        "model": "LeSabre",
+        "year": 2005,
+        "color": "#135f0b"
+    },
+    {
+        "id": "WAUVKAFRXAA529007",
+        "make": "Toyota",
+        "model": "Tercel",
+        "year": 1995,
+        "color": "#ae41b5"
+    },
+    {
+        "id": "5UXFA13546L766372",
+        "make": "Mercedes-Benz",
+        "model": "S-Class",
+        "year": 2001,
+        "color": "#2a8631"
+    },
+    {
+        "id": "5N1AA0NC7FN299224",
+        "make": "Ford",
+        "model": "F350",
+        "year": 2006,
+        "color": "#a4cabe"
+    },
+    {
+        "id": "WA1WKBFPXCA989034",
+        "make": "Mitsubishi",
+        "model": "3000GT",
+        "year": 1992,
+        "color": "#466633"
+    },
+    {
+        "id": "JN8AZ2NE4F9062584",
+        "make": "Suzuki",
+        "model": "Forenza",
+        "year": 2005,
+        "color": "#bf8513"
+    },
+    {
+        "id": "JTHCL5EF7F5262669",
+        "make": "Subaru",
+        "model": "Outback",
+        "year": 2010,
+        "color": "#3f96ca"
+    },
+    {
+        "id": "1N6AA0CH4EN131832",
+        "make": "Mazda",
+        "model": "Mazda5",
+        "year": 2010,
+        "color": "#237c51"
+    },
+    {
+        "id": "1GYEE437790667937",
+        "make": "Corbin",
+        "model": "Sparrow",
+        "year": 1999,
+        "color": "#30119f"
+    },
+    {
+        "id": "JTDKN3DU1A0718733",
+        "make": "Dodge",
+        "model": "Viper",
+        "year": 1997,
+        "color": "#4d1d64"
+    },
+    {
+        "id": "WAURGAFD9DN952701",
+        "make": "Ford",
+        "model": "Freestar",
+        "year": 2003,
+        "color": "#1347d6"
+    },
+    {
+        "id": "19XFB2E52EE373589",
+        "make": "Chevrolet",
+        "model": "Express",
+        "year": 2006,
+        "color": "#fd209c"
+    },
+    {
+        "id": "WA1CGBFE9ED843051",
+        "make": "Buick",
+        "model": "LeSabre",
+        "year": 1998,
+        "color": "#b38ca2"
+    },
+    {
+        "id": "WA1WMAFE4CD426692",
+        "make": "Suzuki",
+        "model": "Grand Vitara",
+        "year": 2011,
+        "color": "#231d2e"
+    },
+    {
+        "id": "1J4PN2GK3BW713701",
+        "make": "Jeep",
+        "model": "Commander",
+        "year": 2007,
+        "color": "#e32e2e"
+    },
+    {
+        "id": "WAUKF98E48A833606",
+        "make": "Chevrolet",
+        "model": "Caprice",
+        "year": 1994,
+        "color": "#995a98"
+    },
+    {
+        "id": "1B3BD2FB5BN739261",
+        "make": "Ford",
+        "model": "Excursion",
+        "year": 2000,
+        "color": "#3bf2b7"
+    },
+    {
+        "id": "WAUAH74F99N572069",
+        "make": "Ford",
+        "model": "F350",
+        "year": 2011,
+        "color": "#071bdd"
+    },
+    {
+        "id": "1N6AF0LY1FN734403",
+        "make": "Suzuki",
+        "model": "SX4",
+        "year": 2012,
+        "color": "#f5301b"
+    },
+    {
+        "id": "WUARL48H06K665349",
+        "make": "Jeep",
+        "model": "Patriot",
+        "year": 2012,
+        "color": "#5c70a9"
+    },
+    {
+        "id": "3C6JD6AK2CG635322",
+        "make": "Chevrolet",
+        "model": "G-Series 1500",
+        "year": 1997,
+        "color": "#f84cb4"
+    },
+    {
+        "id": "1FTSX2B57AE363292",
+        "make": "Mercury",
+        "model": "Cougar",
+        "year": 1996,
+        "color": "#f7c160"
+    },
+    {
+        "id": "KMHTC6AD0FU366899",
+        "make": "Saab",
+        "model": "9-5",
+        "year": 2000,
+        "color": "#26872a"
+    },
+    {
+        "id": "1G6AB5SA1D0259137",
+        "make": "Chevrolet",
+        "model": "Express 1500",
+        "year": 2009,
+        "color": "#1659ca"
+    },
+    {
+        "id": "1G6KF549X5U664029",
+        "make": "Ford",
+        "model": "Flex",
+        "year": 2012,
+        "color": "#12ccdc"
+    },
+    {
+        "id": "WA1AY74L19D652233",
+        "make": "Ford",
+        "model": "F350",
+        "year": 2002,
+        "color": "#78f9dc"
+    },
+    {
+        "id": "WA1CMBFP6FA939555",
+        "make": "Plymouth",
+        "model": "Grand Voyager",
+        "year": 1997,
+        "color": "#907eea"
+    },
+    {
+        "id": "5GAKVDED4CJ500093",
+        "make": "Mazda",
+        "model": "MPV",
+        "year": 1994,
+        "color": "#4c3676"
+    },
+    {
+        "id": "WA1CKBFP3AA449170",
+        "make": "BMW",
+        "model": "5 Series",
+        "year": 1998,
+        "color": "#be4764"
+    },
+    {
+        "id": "WBA3G7C58EK635579",
+        "make": "Mercedes-Benz",
+        "model": "400SEL",
+        "year": 1993,
+        "color": "#471587"
+    },
+    {
+        "id": "WBALM73569E336928",
+        "make": "BMW",
+        "model": "M3",
+        "year": 1999,
+        "color": "#16522c"
+    },
+    {
+        "id": "1N6AA0CJ5FN690469",
+        "make": "Pontiac",
+        "model": "Bonneville",
+        "year": 2004,
+        "color": "#de95ab"
+    },
+    {
+        "id": "2HNYD18936H690423",
+        "make": "Chevrolet",
+        "model": "Express 3500",
+        "year": 2006,
+        "color": "#fcc184"
+    },
+    {
+        "id": "19UUA65684A247542",
+        "make": "Mazda",
+        "model": "Millenia",
+        "year": 1999,
+        "color": "#803c0b"
+    },
+    {
+        "id": "WBAPH5C54BF700564",
+        "make": "Chevrolet",
+        "model": "Aveo",
+        "year": 2011,
+        "color": "#e4da50"
+    },
+    {
+        "id": "2C3CA9CT5AH447915",
+        "make": "Jeep",
+        "model": "Wrangler",
+        "year": 2008,
+        "color": "#5056bf"
+    },
+    {
+        "id": "JTJBM7FX4E5622666",
+        "make": "Ford",
+        "model": "Excursion",
+        "year": 2001,
+        "color": "#33d869"
+    },
+    {
+        "id": "SAJWA1CB5CL964866",
+        "make": "Infiniti",
+        "model": "I",
+        "year": 1996,
+        "color": "#f5dfc0"
+    },
+    {
+        "id": "1G6YV36AX95081534",
+        "make": "Saab",
+        "model": "9-7X",
+        "year": 2005,
+        "color": "#90e5a4"
+    },
+    {
+        "id": "3VW8S7AT9FM032561",
+        "make": "Ford",
+        "model": "Fusion",
+        "year": 2009,
+        "color": "#6815d3"
+    },
+    {
+        "id": "WAUFGBFB9BN833437",
+        "make": "Rolls-Royce",
+        "model": "Ghost",
+        "year": 2011,
+        "color": "#246a65"
+    },
+    {
+        "id": "SALGS2TF4FA739100",
+        "make": "Toyota",
+        "model": "Avalon",
+        "year": 2002,
+        "color": "#339077"
+    },
+    {
+        "id": "1GKUCEEF7AR156282",
+        "make": "Mercedes-Benz",
+        "model": "300TE",
+        "year": 1993,
+        "color": "#7abdfb"
+    },
+    {
+        "id": "5LMJJ3H58BE701662",
+        "make": "Dodge",
+        "model": "Intrepid",
+        "year": 2000,
+        "color": "#594a91"
+    },
+    {
+        "id": "1N6AF0LY8EN346230",
+        "make": "GMC",
+        "model": "Savana",
+        "year": 2012,
+        "color": "#f320f3"
+    },
+    {
+        "id": "1G6DM57T170753729",
+        "make": "Subaru",
+        "model": "Legacy",
+        "year": 2010,
+        "color": "#872b95"
+    },
+    {
+        "id": "SCFFDAAM3DG025768",
+        "make": "Saab",
+        "model": "9-3",
+        "year": 2007,
+        "color": "#a0fe22"
+    },
+    {
+        "id": "WVGFG9BP6BD661723",
+        "make": "GMC",
+        "model": "Savana 1500",
+        "year": 2003,
+        "color": "#28ead5"
+    },
+    {
+        "id": "WBA3K5C50FK277169",
+        "make": "Isuzu",
+        "model": "Axiom",
+        "year": 2004,
+        "color": "#5707ad"
+    },
+    {
+        "id": "WAUWGAFB6AN447616",
+        "make": "Pontiac",
+        "model": "Bonneville",
+        "year": 1998,
+        "color": "#6051b6"
+    },
+    {
+        "id": "WAUGL98E66A292831",
+        "make": "Nissan",
+        "model": "GT-R",
+        "year": 2011,
+        "color": "#9a899c"
+    },
+    {
+        "id": "WAU3FAFR5DA591091",
+        "make": "Tesla",
+        "model": "Model S",
+        "year": 2012,
+        "color": "#5e2bde"
+    },
+    {
+        "id": "5NPDH4AE2CH308421",
+        "make": "Volkswagen",
+        "model": "Jetta",
+        "year": 1991,
+        "color": "#21e62e"
+    }
+]

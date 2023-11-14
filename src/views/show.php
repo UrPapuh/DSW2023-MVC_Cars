@@ -1,3 +1,4 @@
+<a href="index.php?id=<?=$car->id?>&action=edit">Editar</a>
 <h2><?=$car->id?></h2>
 <h3><?=$car->make?> - <?=$car->model?></h3>
 <h4><?=$car->year?> - <?=$car->color?></h4>
